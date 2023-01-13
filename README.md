@@ -7,7 +7,7 @@ This project is an introduction to natural language processing: bag of words, TF
 # churn
 This project is an introduction to artificial neural nets: fully-connected neural nets, hidden layers, activation functions, back-propagation, dropout
 
-# mySpotify (missing)
+# mySpotify
 This project is an introduction to algorithms used for recommendations: non-personalized, content-based, collaborative filtering.
 
 # Understanding customer
